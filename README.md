@@ -3,7 +3,7 @@
 > Showcase your top tracks with a personalized album art grid. Instant digital download.
 
 [![Live Demo](https://img.shields.io/badge/demo-live-green)](https://www.lyricsposter.com/en/music-posters/custom-playlist-wall-art-print)
-[![Official Site](https://img.shields.io/badge/official-lyricsposter.com-black)](https://www.lyricsposter.com/en/music-posters/playlist-poster)
+[![Official Site](https://img.shields.io/badge/official-lyricsposter.com-black)](https://www.lyricsposter.com/en/music-posters)
 
 ## ✨ Overview
 
