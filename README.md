@@ -18,7 +18,7 @@ The **Custom Printable Spotify Playlist Poster** is a modern design focused on t
 
 ## 🛠️ How to Create Your Custom Playlist Art
 
-1. **Visit the Editor**: [Custom Playlist Art Customizer](https://52imnet.github.io/spotify-playlist-poster-grid-personalized/).
+1. **Visit the Editor**: [Custom Playlist Art Customizer](https://www.lyricsposter.com/en/music-posters/custom-playlist-wall-art-print).
 2. **Personalize Your Grid**: Search and add 16 tracks to fill your custom grid.
 3. **Customize Info**: Add a personalized title and footer message.
 4. **Download & Print**: Export your printable file and frame it for your wall.
@@ -34,12 +34,11 @@ The **Custom Printable Spotify Playlist Poster** is a modern design focused on t
 ## 🔗 Related Resources
 
 - [LyricsPoster.com](https://www.lyricsposter.com) - The destination for professional custom music art.
-- [Printable Music Receipt](https://52imnet.github.io/personalized-music-receipt-poster-printable/) - The viral personalized receipt trend.
-- [Custom Polaroid Art](https://52imnet.github.io/custom-polaroid-music-poster-printable/) - A retro take on personalized album grids.
+- [Printable Music Receipt](https://www.lyricsposter.com/en/music-posters) - The viral personalized receipt trend.
+- [Custom Polaroid Art](https://www.lyricsposter.com/en/music-posters/music-album-posters-unframed) - A retro take on personalized album grids.
 
 ## 📈 Keywords
 `custom spotify playlist poster`, `personalized album art grid`, `printable music wall decor`, `custom song list print`, `personalized music gift`, `playlist tracklist printable`, `digital download album art`.
 
 ---
 
-*Curated with ❤️ by the team at LyricsPoster.com.*
